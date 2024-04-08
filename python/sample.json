@@ -1,0 +1,30 @@
+{
+	"missionId": {
+		"planId": {
+			"planNumber": 0,
+			"phaseId": 1,
+			"coaId": 1,
+			"unitNumber": 1
+		},
+		"targetKey": {
+			"targetnumber": "KF1905",
+			"creationTime": 1706844880000
+		},
+		"creatingUnit": {
+			"unitReferenceNumber": 2966376,
+			"unitId": " FDC1 1PLT I BTRY   3BN     17MAR"
+		},
+		"missionNumber": 45
+	},
+	"attackingUnit": {
+		"unitReferenceNumber": 2966378,
+		"unitId": "    1    1 I BTRY   3BN     17MAR"
+	},
+	"launchTime": 1706846248419,
+	"missileLaunchLocation": {
+		"latitude": 2.048644542694083,
+		"longitude": 103.06465911865212,
+		"altitude": 20,
+		"heightAboveEllipsoid": 24
+	}
+}
